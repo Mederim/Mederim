@@ -1,9 +1,11 @@
 <h1 align="center">
-          <br>Hi I'am Mederim Oliveira 👋</br>
+          <br>Hello Friend.mov 👋</br>
           <a href="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893"><img height="300px" src="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893.gif"></a>
 </h1>
 
-Hello my name and Mederim Oliveira, I am an automation engineering student at UFMT, welcome to this git with my projects and a pinch of love for Linux.
+Hello my name and Mederim Oliveira, I am an automation engineering student at UFMT. I'm curious love to learn and create projects.
+
+Welcome to this git with my projects and a pinch of love for Linux and Open Source. ;]
 
 <h2>Here Is My Status</h2>
 
