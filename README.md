@@ -23,5 +23,7 @@ Hello my name and Mederim Oliveira, I am an automation engineering student at UF
 </div>
 
 <h3>For Final</h3>
-
+          
+<div>
 <a href="https://gifs.alphacoders.com/gifs/view/35697"><img height="250px" src="https://giffiles.alphacoders.com/356/35697.gif"></a>
+</div>
