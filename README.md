@@ -1,5 +1,5 @@
 ### Hi I'am Mederim Oliveira 👋
-<a height="100" href="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893"><img src="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893.gif"></a>
+<a height="100px" href="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893"><img src="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893.gif"></a>
 
  <div>
       <a href="https://github.com/rafaballerini">
