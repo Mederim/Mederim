@@ -1,5 +1,5 @@
-### Hi I'am Mederim Oliveira 👋
 <h1 align="center">
+          <br>Hi I'am Mederim Oliveira 👋</br>
           <a href="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893"><img height="300px" src="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893.gif"></a>
 </h1>
 
