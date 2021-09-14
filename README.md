@@ -18,7 +18,7 @@ Hello my name and Mederim Oliveira, I am an automation engineering student at UF
           <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           <img align="center"  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
           <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-          <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
+          <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplus/cplus-original.svg">
           <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
