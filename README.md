@@ -4,6 +4,12 @@
 Hello my name and Mederim Oliveira, I am an automation engineering student at UFMT, welcome to this git with my projects and a pinch of love for Linux.
 
 
+ <div>
+      <a href="https://github.com/rafaballerini">
+      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Mederim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mederim&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,12 +30,6 @@ Hello my name and Mederim Oliveira, I am an automation engineering student at UF
 
 </div>
 
-
- <div>
-      <a href="https://github.com/rafaballerini">
-      <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Mederim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mederim&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 
 
